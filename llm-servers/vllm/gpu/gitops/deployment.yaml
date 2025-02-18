@@ -53,7 +53,7 @@ spec:
               value: ''
           args: [
             "--model",
-            "mistralai/Mistral-7B-Instruct-v0.2",
+            "elyza/Llama-3-ELYZA-JP-8B",
             "--download-dir",
             "/models-cache",
             "--dtype", "float16",
