@@ -14,8 +14,8 @@ spec:
   source:
     path: llm-servers/vllm/gpu/gitops
     repoURL: >-
-      https://github.com/rh-aiservices-bu/llm-on-openshift
-    targetRevision: main
+      https://github.com/akubicharm/llm-on-openshift
+    targetRevision: elyza
   syncPolicy:
     automated:
       prune: true
